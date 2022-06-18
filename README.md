@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building my skill in Data Analytics
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter.com/fadamakay, 
 - 😄 Pronouns: (HE/HIM/HIS)
 - ⚡ Fun fact: like Deligent and going to new places.
--->
+
